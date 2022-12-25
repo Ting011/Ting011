@@ -5,6 +5,12 @@
 
 <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ting011)](https://github.com/anuraghazra/github-readme-stats) -->
 
+<a href="#">
+    <p align="center">
+        <img src="https://github-profile-trophy.vercel.app/?username=Ting011&column=7&theme=onedark"/>
+    </p>
+</a>
+
 
 <a align="center" href="#">
     <p align="center">
