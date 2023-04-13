@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ting011
 - 👀 I’m interested in Game Development
-- 🌱 I’m currently learning Complier / ML / FPGA Rookie
+- 🌱 I’m currently learning Complier / ML / FPGA
 - 💞️ I’m looking to collaborate on U3D
 
 <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ting011)](https://github.com/anuraghazra/github-readme-stats) -->
