@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Ting011
-- 👀 I’m interested in LLM Application
-- 🌱 I’m currently learning LLM / AI Agent
-- 💞️ I’m looking to collaborate on U3D
+- 👋 Hi, I’m @Ting011.
+- 👀 I’m interested in LLM Application.
+- 🌱 I’m currently learning LLM / AI Agent.
+- 💞️ I’m looking to collaborate on LLM post-training & Agent.
 
 <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ting011)](https://github.com/anuraghazra/github-readme-stats) -->
 
